@@ -1,0 +1,5 @@
+C:\Users\newsu\Desktop\TetrisGame\TetrisGame\bin\Release\net7.0-windows\publish\TetrisGame.exe
+C:\Users\newsu\Desktop\TetrisGame\TetrisGame\bin\Release\net7.0-windows\publish\TetrisGame.dll
+C:\Users\newsu\Desktop\TetrisGame\TetrisGame\bin\Release\net7.0-windows\publish\TetrisGame.deps.json
+C:\Users\newsu\Desktop\TetrisGame\TetrisGame\bin\Release\net7.0-windows\publish\TetrisGame.runtimeconfig.json
+C:\Users\newsu\Desktop\TetrisGame\TetrisGame\bin\Release\net7.0-windows\publish\TetrisGame.pdb
